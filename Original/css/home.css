@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Exo:400,500i');
+/* Color Palett
+  #0b0c10 : background
+  #1f2833 : Sub text
+  #c5c6c7 : ??
+  #66fcf1 : Highlight
+  #45a29e : hover
+  #c3073f : Red hover
+*/
+
+  body {
+      margin: 0;
+      padding: 0;
+      background: #0b0c10;
+      background-repeat: no-repeat;
+      background-size: cover;
+      transition-duration: 10s;
+  }
+
+
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
+
+  .main-bg {
+    background: #0b0c10;
+    border-top: none;
+    border-bottom: none;
+  }
+ /*Jumbotron style*/
+.jumbo {
+    margin: 0;
+    padding: 0;
+}
+
+ .jumbotron {
+   background: #0b0c10;
+   background-repeat: no-repeat;
+   border: 6px solid #fff;
+   background-size: cover;
+   background-position: center;
+   text-align: center;
+   color:#fff;
+   text-shadow: 3px 3px 15px #c3073f;
+   margin-bottom: 0;
+   padding: 20px;
+ }
+
+  .jumbo-h1 {
+    font-family: 'Abril Fatface', cursive;
+  }
+
+  .lead {
+        font-family: 'Exo', sans-serif;
+  }
+/*-------------------------------------*/
+
+  .card-bg {
+    background: #1f2833;
+    border: 6px solid #fff;
+    color: #fff;
+    transition-duration: .4s;
+    padding: 15px 15px 0px 15px;
+    font-family: 'Exo', sans-serif;
+  }
+
+  .card-bg:hover {
+    background: #8b0000;
+    border-radius: 10%;
+  }
+
+  .card-text-pad {
+    padding:5px;
+    margin-bottom: 0;
+  }
+
+  .card-h1 {
+    text-align: center;
+  }
