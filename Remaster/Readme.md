@@ -1,0 +1,1 @@
+The story behind CodingSavedMyLife and the progression of my abilites. Come along with me as I relive my development journey and share my experiences with you.
